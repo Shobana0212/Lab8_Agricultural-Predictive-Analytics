@@ -1,0 +1,10 @@
+{
+  "created_utc": "2026-10-12T18:08:22.375867+00:00",
+  "raw_sha256": "74a017708b0c084600b334bec644e11c73817438a7e0786c86498eb632d5a2b9",
+  "test_years": [
+    2023,
+    2024
+  ],
+  "selected_model": "ridge_trend",
+  "selection_sha256": "4925a61cffebf7a47ea42971de725221d77c59d16ea251d74c5ea571c63fe8f7"
+}

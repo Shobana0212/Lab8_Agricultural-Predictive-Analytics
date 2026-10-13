@@ -1,0 +1,3 @@
+column,training_unique,validation_unique,validation_only_count,validation_only_examples,validation_only_entered_encoder
+state,36,32,0,,False
+district,734,678,33,"33 PARAGANAS NORTH, 33 PARAGANAS SOUTH, 34 PARAGANAS NORTH, 34 PARAGANAS SOUTH, AKOLA, ALLURI SITHARAMA RAJU, ANAKAPALLI, ANNAMAYYA, BAPATLA, BOTAD",False

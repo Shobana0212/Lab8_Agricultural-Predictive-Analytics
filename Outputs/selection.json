@@ -1,0 +1,28 @@
+{
+  "selected_model": "ridge_trend",
+  "selection_rule": "minimum validation MAE; ties preserve declared candidate order",
+  "candidate_order": [
+    "median",
+    "ridge_trend",
+    "tree",
+    "forest"
+  ],
+  "selected_settings": "Ridge(alpha=1.0, solver='lsqr')",
+  "validation_years": [
+    2021,
+    2022
+  ],
+  "test_years_reserved": [
+    2023,
+    2024
+  ],
+  "training_only_fit": true,
+  "features": [
+    "state",
+    "district",
+    "year"
+  ],
+  "target": "yield_t_ha",
+  "raw_sha256": "74a017708b0c084600b334bec644e11c73817438a7e0786c86498eb632d5a2b9",
+  "season_missing_adaptation": "Season omitted; instructor approval required"
+}

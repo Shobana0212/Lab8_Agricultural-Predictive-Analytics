@@ -1,0 +1,5 @@
+model,MAE_t_ha,RMSE_t_ha,R2,fit_plus_validation_prediction_seconds,settings
+ridge_trend,0.4444369050780331,0.7797360909019032,0.32891349941907577,0.06398021900008644,"Ridge(alpha=1.0, solver='lsqr')"
+forest,0.5016313075608979,0.7680826037045136,0.3488229475029644,0.47528286299996125,"RandomForestRegressor(n_estimators=60, max_depth=12, min_samples_leaf=5, n_jobs=2, random_state=42)"
+tree,0.5996802253539281,0.8541563814269286,0.194699424347609,0.028953619000049002,"DecisionTreeRegressor(max_depth=6, min_samples_leaf=10, random_state=42)"
+median,0.8502643504531722,1.1384394298105773,-0.4305501526692277,0.02211428700002216,DummyRegressor(strategy='median')

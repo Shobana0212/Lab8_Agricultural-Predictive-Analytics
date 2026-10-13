@@ -1,0 +1,13 @@
+{
+  "local_filename": "Rice_Data_2026-10-12.csv",
+  "sha256": "74a017708b0c084600b334bec644e11c73817438a7e0786c86498eb632d5a2b9",
+  "download_source_url": "https://www.data.gov.in/catalog/district-wise-season-wise-crop-production-statistics-0 (candidate catalog; exact local-file match not independently verified)",
+  "resource_page_url": "https://data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997",
+  "publisher_or_agency": "Ministry of Agriculture and Farmers Welfare; Department of Agriculture and Farmers Welfare; Directorate of Economics and Statistics (as listed on OGD Platform India)",
+  "download_date": "2026-10-12 (as recorded in notebook)",
+  "licence_or_terms": "OGD Platform India indicates Government Open Data License\u2013India (GODL-India) for published datasets generally; resource-specific conditions and exact file-to-resource provenance still require confirmation.",
+  "access_record_notes": "The catalog/resource pages were checked. The notebook originally contained placeholder provenance fields, so do not claim full file-level licence verification until the download URL, attribution requirements, and file identity are confirmed.",
+  "season_column_available": false,
+  "instructor_approval_for_no_season": "PENDING",
+  "status": "PARTIAL: catalog metadata checked; exact local file provenance/licence confirmation pending"
+}

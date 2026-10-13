@@ -1,0 +1,16 @@
+{
+  "raw_sha256": "74a017708b0c084600b334bec644e11c73817438a7e0786c86498eb632d5a2b9",
+  "source_file_exists": true,
+  "required_columns_present": true,
+  "raw_rows": 15735,
+  "canonical_rows": 15717,
+  "years_unique": 30,
+  "split_years_disjoint": true,
+  "target_finite_nonnegative": true,
+  "duplicate_keys_after_cleaning": 0,
+  "selected_model": "ridge_trend",
+  "test_lock_exists": true,
+  "reload_predictions_exact": true,
+  "season_column_missing": true,
+  "instructor_approval_for_season_deviation": "PENDING"
+}
