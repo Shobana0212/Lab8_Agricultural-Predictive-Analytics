@@ -11,7 +11,6 @@ limitations.
 **Student:** Shobana Balusamy\
 **Register Number:** 23MID0212\
 **Course:** MDI3003 -- Advanced Predictive Analytics\
-**Institution:** VIT Vellore\
 **Semester:** Fall Semester 2026--2027
 
 ## Project files
